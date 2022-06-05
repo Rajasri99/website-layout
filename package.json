@@ -1,0 +1,19 @@
+{
+  "name": "website-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajiYogi99/website-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajiYogi99/website-layout/issues"
+  },
+  "homepage": "https://github.com/RajiYogi99/website-layout#readme"
+}
